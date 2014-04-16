@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Google Map Place Search</string>
+    <string name="title_place_search_failure">Searching not successful</string>
+    <string name="text_place_seart_failure">Sorry, place searching is facing difficulty at the moment.\n\nPlease make sure you have an Internet connection</string>
+    <string name="action_search_address">Search</string>
+    <string name="action_search_address_hint">Search address of the building</string>
+    <string name="snippet_search_result_marker">Tap me to choose this place</string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>
